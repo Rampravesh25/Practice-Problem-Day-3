@@ -1,4 +1,4 @@
-package com.emp_wage_comp_prob;
+package com.bridgelabz;
 
 public class UC3EmpPartTimeWage {
     public static void main(String[] args) {
